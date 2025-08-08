@@ -1,3 +1,4 @@
+![Langage](https://img.shields.io/badge/langage-C-blue)
 \# Student Management System (Projet en C)
 
 

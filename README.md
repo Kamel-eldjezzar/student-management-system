@@ -34,6 +34,19 @@ Ce projet est une application console simple écrite en langage C pour gérer le
 
 \- data.txt : Fichier contenant les données des étudiants
 
+## 🤝 Comment contribuer
+
+Les contributions sont les bienvenues !  
+Pour proposer une amélioration ou corriger un bug :
+
+1. Fork ce dépôt  
+2. Crée une branche : git checkout -b ma-fonctionnalite  
+3. Commit tes changements : git commit -m "Ajout de ma fonctionnalité"  
+4. Pousse la branche : git push origin ma-fonctionnalite  
+5. Ouvre une Pull Request sur GitHub
+
+Merci pour ton aide ! 🙌
+
 
 
 \## 💻 Compilation
@@ -50,16 +63,3 @@ gcc main.c gradesManagement.c -o gestion\_etudiants
 
 
 
-
-## 🤝 Comment contribuer
-
-Les contributions sont les bienvenues !  
-Pour proposer une amélioration ou corriger un bug :
-
-1. Fork ce dépôt  
-2. Crée une branche : git checkout -b ma-fonctionnalite  
-3. Commit tes changements : git commit -m "Ajout de ma fonctionnalité"  
-4. Pousse la branche : git push origin ma-fonctionnalite  
-5. Ouvre une Pull Request sur GitHub
-
-Merci pour ton aide ! 🙌

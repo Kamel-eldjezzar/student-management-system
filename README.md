@@ -1,6 +1,6 @@
 ![Langage](https://img.shields.io/badge/langage-C-blue)
 
-\# Student Management System (Projet en C)
+# Student Management System (Projet en C)
 
 
 Ce projet est une application console simple écrite en langage C pour gérer les informations des étudiants, y compris :
@@ -19,7 +19,7 @@ Ce projet est une application console simple écrite en langage C pour gérer le
 
 
 
-\## 📁 fichiers
+## 📁 fichiers
 
 
 \- main.c : Menu principal

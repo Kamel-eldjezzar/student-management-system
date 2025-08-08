@@ -48,6 +48,9 @@ Utilise GCC pour compiler :
 
 gcc main.c gradesManagement.c -o gestion\_etudiants
 
+
+
+
 ## 🤝 Comment contribuer
 
 Les contributions sont les bienvenues !  

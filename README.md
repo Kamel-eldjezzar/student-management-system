@@ -47,7 +47,9 @@ Pour proposer une amélioration ou corriger un bug :
 
 Merci pour ton aide ! 🙌
 
+## Licence
 
+Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
 
 \## 💻 Compilation
 

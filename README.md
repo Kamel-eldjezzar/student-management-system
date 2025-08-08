@@ -3,10 +3,7 @@
 \# Student Management System (Projet en C)
 
 
-
 Ce projet est une application console simple écrite en langage C pour gérer les informations des étudiants, y compris :
-
-
 
 \- Ajouter un étudiant
 
@@ -22,8 +19,7 @@ Ce projet est une application console simple écrite en langage C pour gérer le
 
 
 
-\## 📁 Fichiers
-
+\## 📁 fichiers
 
 
 \- main.c : Menu principal
@@ -34,7 +30,8 @@ Ce projet est une application console simple écrite en langage C pour gérer le
 
 \- data.txt : Fichier contenant les données des étudiants
 
-## 🤝 Comment contribuer
+
+## 🤝 Comment contribuer  
 
 Les contributions sont les bienvenues !  
 Pour proposer une amélioration ou corriger un bug :
@@ -47,21 +44,8 @@ Pour proposer une amélioration ou corriger un bug :
 
 Merci pour ton aide ! 🙌
 
+
 ## Licence
 
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
-
-\## 💻 Compilation
-
-
-
-Utilise GCC pour compiler :
-
-
-
-```bash
-
-gcc main.c gradesManagement.c -o gestion\_etudiants
-
-
 

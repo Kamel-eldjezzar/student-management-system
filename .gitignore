@@ -1,0 +1,14 @@
+# Executables
+gestion
+*.exe
+
+# Fichiers objets
+*.o
+*.obj
+
+# Fichiers temporaires et backups
+*~
+*.log
+
+# Dossiers IDE (exemple VSCode)
+.vscode/
